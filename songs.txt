@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 content sad
+=======
+content happy 
+>>>>>>> happy_songs
+
+happy and sad
